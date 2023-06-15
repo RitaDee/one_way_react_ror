@@ -138,8 +138,7 @@ Feel free to check the [issues page](https://github.com/RitaDee/one_way_react_ro
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please leave a STAR to the [Github repo](https://github.com/donmark2k/
-hello_rails_frontend/)
+If you like this project please leave a STAR 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
