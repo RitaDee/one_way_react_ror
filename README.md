@@ -83,27 +83,21 @@ Clone this repository to your desired directory using the command:
 
 ### Install
 
-Install the required dependencies using the following command:
+Install this project with:
 
 ```sh
+  cd rails_capstone
+  bundle install
   npm install
 ```
+
 ### Usage
-Run the server using the following command:
+
+To run the project, execute the following command:
 
 ```sh
-  npm start
+  ./bin/dev
 ```
-### Run tests
-Run this command to fix some CSS linters error
-```sh
-  npx stylelint "**/*.{css,scss}" --fix
-``` 
-
-Run this command to fix some JavaScript linters error
-```sh
-  npx eslint . --fix
-  ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
